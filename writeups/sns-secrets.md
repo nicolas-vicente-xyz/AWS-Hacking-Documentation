@@ -162,7 +162,7 @@ The output `"SubscriptionArn": "pending confirmation"` lets me know that the sub
 ### Handshake Confirmation & Key Interception
 Waiting a little and going back to the webhook website showed me the `SubscribeURL` to confirm my subscription to the topic.
 <div align="center">
-  <img src="../images/sns-secrets/subscription-notification.png" alt="Viewing subscription confirmation on the webhook website." width="450" />
+  <img src="../images/sns-secrets/subscription-notification.png" alt="Viewing the SubscribeURL on the webhook website." width="450" />
   <p><em>Viewing the SubscribeURL on the webhook website.</em></p>
 </div>
 
