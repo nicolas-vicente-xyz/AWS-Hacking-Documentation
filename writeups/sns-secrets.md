@@ -28,7 +28,7 @@ Using the inital access credentials given, I created an AWS profile by running `
 }
 ```
 This output verifies that I have vaild credentials. I confirmed the initial IAM user as `cg-sns-user-lab`. 
-## IAM Policy & Permission Enumeration 
+### IAM Policy & Permission Enumeration 
 There were no managed policies attached to the intiial access IAM user, but there was 1 inline policy found. 
 
 ```bash
