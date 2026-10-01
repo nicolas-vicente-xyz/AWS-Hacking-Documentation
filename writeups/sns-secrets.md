@@ -2,7 +2,7 @@
 <details open>
 <summary><b>Engagement Overview</b></summary>
 
-> **Platform:** `HackSmarter Labs` &nbsp;|&nbsp; **Site:** `hxxps[://]www[.]hacksmarter[.]org`  
+> **Platform:** `HackSmarter Labs` &nbsp;|&nbsp; **Site:** `https://www.hacksmarter.org`  
 >As part of the Hack Smarter Red Team’s new cloud offering, you have been assigned a penetration test focusing on AWS infrastructure. This engagement operates under an **"assumed-breach"** framework.
 >
 >You will begin with a set of compromised, low-privilege AWS CLI credentials. The client has identified a sensitive internal **API Gateway** as a critical asset. They are concerned that an attacker inside the environment could manipulate permissions to access this resource.
