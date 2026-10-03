@@ -5,6 +5,7 @@ Personal documentation and writeups for AWS security labs and authorized cloud a
 
 **Completed Challenges**
 * **SNS Secrets (HackSmarter Labs)** — [View Writeup](./writeups/sns-secrets.md)
+* **Incognito Travel (HackSmarter Labs)** — [View Writeup](./writeups/incognito-travel.md)
 
 ---
 
