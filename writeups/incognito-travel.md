@@ -2,7 +2,7 @@
 <details open>
 <summary><b>Engagement Overview</b></summary>
 
-> **Platform:** `HackSmarter Labs` &nbsp;|&nbsp; **Services:** `Cognito`, `API Gateway`  
+> **Platform:** `HackSmarter Labs` &nbsp;|&nbsp; **Services:** `Cognito`
 >
 > **Objective:** Incognito Travel is rolling out a new authentication process for their flagship travel application. Before deploying to production, they have contracted Hack Smarter to rigorously test the new authentication flow. The target application leverages Amazon Cognito to handle its identity and access management.
 > Can you take over the admin's account?
