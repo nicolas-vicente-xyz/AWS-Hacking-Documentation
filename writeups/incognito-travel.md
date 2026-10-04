@@ -147,7 +147,7 @@ This is what I found from manually reviewing the website's source code:
     - `${API_URL}/profile`
     - `${API_URL}/update-profile`
 
-The most useful finding for this lab is the **Client ID** because it will allow me to interact with AWS Cognito without AWS IAM credentials or backend API keys. With the Client ID, I could now try and create a new user on this website.
+The most useful finding for this lab is the **Client ID** because it will allow me to interact with AWS Cognito without AWS IAM credentials or backend API keys. With the Client ID, I could now try and create a new user for this website through the AWS CLI.
 
 </details>
 
