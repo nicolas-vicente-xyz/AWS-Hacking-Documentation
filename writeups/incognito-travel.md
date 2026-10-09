@@ -230,7 +230,7 @@ The output showed that the new user had a `sub` and an `email` attribute. From h
 
 
 <details open>
-<summary><b>Exploitation & Admin Account Takover</b></summary>
+<summary><b>Exploitation & Admin Account Takeover</b></summary>
 
 In the source code shown earlier, I found the API URL and some endpoints used in this application. If the AWS Cognito configurations allow writeable attributes and have improper user identification, I could escalate privileges by changing the new user's email to the CEO's email found earlier. 
 
