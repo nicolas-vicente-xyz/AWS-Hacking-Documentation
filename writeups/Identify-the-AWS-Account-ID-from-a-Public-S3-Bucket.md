@@ -272,7 +272,7 @@ found: XXXXXXXXXXXX
 #### Public EBS Snapshot
 After finding the account ID, I could check to see if there are any EBS Snapshots that are public on this AWS account found by running:
 ```bash
-└─$ aws ec2 describe-snapshots --owner-ids [ACCOUNT ID] --profile s3user
+└─$ aws ec2 describe-snapshots --owner-ids [REDACTED ACCOUNT ID] --profile s3user
 {
     "Snapshots": [
         {
@@ -285,7 +285,7 @@ After finding the account ID, I could check to see if there are any EBS Snapshot
             "State": "completed",
             "StartTime": "2023-06-25T23:08:45.155000+00:00",
             "Progress": "100%",
-            "OwnerId": "107513503799",
+            "OwnerId": "[REDACTED ACCOUNT ID]",
             "Description": "Created by CreateImage(i-089b146125db92ee4) for ami-0676627ee43624fb2",
             "VolumeSize": 8,
             "Encrypted": false
