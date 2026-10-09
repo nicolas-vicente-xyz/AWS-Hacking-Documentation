@@ -256,23 +256,23 @@ Default output format [None]: json
 ```bash
 └─$ s3-account-search arn:aws:iam::XXXXXXXXXXXX:role/hacker mega-big-tech --profile s3user
 Starting search (this can take a while)
-found: 1
-found: 10
-found: 107
-found: 1075
-found: 10751
-found: 107513
-found: 1075135
-found: 10751350
-found: 107513503
-found: 1075135037
-found: 10751350379
-found: 107513503799
+found: X
+found: XX
+found: XXX
+found: XXXX
+found: XXXXX
+found: XXXXXX
+found: XXXXXXX
+found: XXXXXXXX
+found: XXXXXXXXX
+found: XXXXXXXXXX
+found: XXXXXXXXXXX
+found: XXXXXXXXXXXX
 ```
 #### Public EBS Snapshot
 After finding the account ID, I could check to see if there are any EBS Snapshots that are public on this AWS account found by running:
 ```bash
-└─$ aws ec2 describe-snapshots --owner-ids 107513503799 --profile s3user
+└─$ aws ec2 describe-snapshots --owner-ids [ACCOUNT ID] --profile s3user
 {
     "Snapshots": [
         {
