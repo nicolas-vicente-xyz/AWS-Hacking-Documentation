@@ -137,7 +137,7 @@ The S3 bucket initially provided shows an `index.html` file and when visitng the
 I could view these S3 buckets by using the URL link from the `ffuf` output like below. 
 
 <div align="center">
-  <img src="../images/S3 Bucket Brute-Force-to-Breach/Pasted image 20261012125035.png" alt="Using the `ffuf` URL provided in the command output to view the `hlogistics-web` S3 bucket." width="400" />
+  <img src="../images/S3-Bucket-Brute-Force-to-Breach/Pasted image 20261012125035.png" alt="Using the `ffuf` URL provided in the command output to view the `hlogistics-web` S3 bucket." width="400" />
   <p><em>Using the `ffuf` URL provided in the command output to view the `hlogistics-web` S3 bucket.</em></p>
 </div>
 
@@ -150,7 +150,7 @@ Or I could also run the AWS CLI command, `aws s3 ls s3://[S3 BUCKET NAME] --no-s
 From the output I could see that the S3 bucket initially provided was hosting an `index.html` page so I navigated to it. 
 
 <div align="center">
-  <img src="../images/S3 Bucket Brute-Force-to-Breach/Pasted image 20261012125216.png" alt="Viewing the S3 bucket `hlogistics-web` index.html page." width="500" />
+  <img src="../images/S3-Bucket-Brute-Force-to-Breach/Pasted image 20261012125216.png" alt="Viewing the S3 bucket `hlogistics-web` index.html page." width="500" />
   <p><em>Viewing the S3 bucket `hlogistics-web` index.html page.</em></p>
 </div>
 
@@ -348,9 +348,6 @@ if __name__ == "__main__":
 
 </details>
 
-
-
-</details>
 
 <details open>
 <summary><b>Privilege Escalation</b></summary>
