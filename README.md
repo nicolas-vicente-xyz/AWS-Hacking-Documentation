@@ -11,6 +11,7 @@ Personal documentation and writeups for AWS security labs and authorized cloud a
 * **Exploit Weak Bucket Policies for Privileged Access (Pwned Labs)** — [View Writeup](./writeups/Exploit-Weak-Bucket-Policies-for-Privileged-Access.md)
 * **Mapper (HackSmarter Labs)** — [View Writeup](./writeups/mapper.md)
 * **Second (HackSmarter Labs)** — [View Writeup](./writeups/second.md)
+* **SSRF to Pwned (Pwned Labs)** — [View Writeup](./writeups/SSRF-to-Pwned.md)
 <!-- * **Loot Public EBS Snapshots (Pwned Labs)** — [View Writeup](./writeups/Loot-Public-EBS-Snapshots.md) -->
 
 ---
