@@ -12,7 +12,7 @@ Personal documentation and writeups for AWS security labs and authorized cloud a
 * **Mapper (HackSmarter Labs)** — [View Writeup](./writeups/mapper.md)
 * **Second (HackSmarter Labs)** — [View Writeup](./writeups/second.md)
 * **SSRF to Pwned (Pwned Labs)** — [View Writeup](./writeups/SSRF-to-Pwned.md)
-* **Discover AWS Organization ID via S3 Bucket (Cybr Labs)** — [View Writeup](./writeups/Discover-AWS-Organization-ID-via-S3-Bucket.md)
+<!-- * **Discover AWS Organization ID via S3 Bucket (Cybr Labs)** — [View Writeup](./writeups/Discover-AWS-Organization-ID-via-S3-Bucket.md) -->
 <!-- * **Loot Public EBS Snapshots (Pwned Labs)** — [View Writeup](./writeups/Loot-Public-EBS-Snapshots.md) -->
 
 ---
