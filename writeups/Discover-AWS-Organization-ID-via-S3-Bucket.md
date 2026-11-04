@@ -17,8 +17,8 @@ The initial access for this lab were AWS credentials which I configured in an AW
 └─$ aws sts get-caller-identity --profile org       
 {
     "UserId": "AIDAWXFD5UBO2CQR6XAYO",
-    "Account": "462052761693",
-    "Arn": "arn:aws:iam::462052761693:user/Daniel"
+    "Account": "801271477356",
+    "Arn": "arn:aws:iam::801271477356:user/Daniel"
 }
 ```
 
@@ -53,7 +53,7 @@ Next I ran the command `aws iam list-roles --profile org` and from the output I 
             "Path": "/",
             "RoleName": "S3AccessImages",
             "RoleId": "AROAWXFD5UBOWTQ65FF3H",
-            "Arn": "arn:aws:iam::462052761693:role/S3AccessImages",
+            "Arn": "arn:aws:iam::801271477356:role/S3AccessImages",
             "CreateDate": "2026-11-04T15:49:19Z",
             "AssumeRolePolicyDocument": {
                 "Version": "2012-10-17",
@@ -61,7 +61,7 @@ Next I ran the command `aws iam list-roles --profile org` and from the output I 
                     {
                         "Effect": "Allow",
                         "Principal": {
-                            "AWS": "arn:aws:iam::462052761693:user/Daniel"
+                            "AWS": "arn:aws:iam::801271477356:user/Daniel"
                         },
                         "Action": "sts:AssumeRole"
                     }
