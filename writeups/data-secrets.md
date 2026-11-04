@@ -378,7 +378,7 @@ The output showed that there was the IAM user `cg-ec2-role-lab` being assumed. W
 
 
 <details open>
-<summary><b>Privilege Escalation & Listing Secrets</b></summary
+<summary><b>Privilege Escalation & Listing Secrets</b></summary>
 
 Using the temporary credentials provided I went ahead and configured a new AWS profile which I named the same as the IAM role found. 
 

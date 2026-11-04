@@ -1,4 +1,5 @@
 # AWS Hacking Documentation
+
 Personal documentation and writeups for AWS security labs and authorized cloud assessments, focusing on identity, misconfiguration, and privilege escalation.
 
 ---
@@ -13,6 +14,7 @@ Personal documentation and writeups for AWS security labs and authorized cloud a
 * **Second (HackSmarter Labs)** — [View Writeup](./writeups/second.md)
 * **SSRF to Pwned (Pwned Labs)** — [View Writeup](./writeups/SSRF-to-Pwned.md)
 * **Data Secrets (HackSmarter Labs)** — [View Writeup](./writeups/data-secrets.md)
+* **Discover AWS Organization ID via S3 Bucket (Cybr Labs)** — [View Writeup](./writeups/Discover-AWS-Organization-ID-via-S3-Bucket.md)
 <!-- * **Loot Public EBS Snapshots (Pwned Labs)** — [View Writeup](./writeups/Loot-Public-EBS-Snapshots.md) -->
 
 ---

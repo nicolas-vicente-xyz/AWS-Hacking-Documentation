@@ -76,7 +76,7 @@ In order to enumerate Account IDs using an S3 Bucket, you will need an AWS accou
 This lab provides the necessary infrastructure needed to complete the challenge, but if you want to create your own infrastructure, below is how I did it. 
 
 > [!NOTE]  
-> I will censor my account ID but you should see 12 random digits for your AWS account ID.
+> I will censor my account ID is hidden but you should see 12 random digits for your AWS account ID.
 
 Login in to your AWS account as the root user and click on the CloudShell terminal icon.
 
