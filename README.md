@@ -15,6 +15,7 @@ Personal documentation and writeups for AWS security labs and authorized cloud a
 * **SSRF to Pwned (Pwned Labs)** — [View Writeup](./writeups/SSRF-to-Pwned.md)
 * **Data Secrets (HackSmarter Labs)** — [View Writeup](./writeups/data-secrets.md)
 * **Discover AWS Organization ID via S3 Bucket (Cybr Labs)** — [View Writeup](./writeups/Discover-AWS-Organization-ID-via-S3-Bucket.md)
+* **Compromising EC2 IMDSv2 with RCE to Access Sensitive S3 Data (Cybr Labs)** — [View Writeup](./writeups/Compromising-EC2-IMDSv2-with-RCE-to-Access-Sensitive-S3-Data.md)
 <!-- * **Loot Public EBS Snapshots (Pwned Labs)** — [View Writeup](./writeups/Loot-Public-EBS-Snapshots.md) -->
 
 ---
