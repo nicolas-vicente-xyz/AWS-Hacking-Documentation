@@ -18,6 +18,8 @@ Personal documentation and writeups for AWS security labs and authorized cloud a
 * **Compromising EC2 IMDSv2 with RCE to Access Sensitive S3 Data (Cybr Labs)** — [View Writeup](./writeups/Compromising-EC2-IMDSv2-with-RCE-to-Access-Sensitive-S3-Data.md)
 * **PrivEsc via IAM Version Rollback (Cybr Labs)** — [View Writeup](./writeups/PrivEsc-via-IAM-Version-Rollback.md)
 * **IAM PutRolePolicy PrivEsc (Cybr Labs)** — [View Writeup](./writeups/IAM-PutRolePolicy-PrivEsc.md)
+* **IAM AttachRolePolicy PrivEsc (Cybr Labs)** — [View Writeup](./writeups/IAM-AttachRolePolicy-PrivEsc.md)
 <!-- * **Loot Public EBS Snapshots (Pwned Labs)** — [View Writeup](./writeups/Loot-Public-EBS-Snapshots.md) -->
 
 ---
+
