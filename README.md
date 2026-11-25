@@ -19,6 +19,7 @@ Personal documentation and writeups for AWS security labs and authorized cloud a
 * **PrivEsc via IAM Version Rollback (Cybr Labs)** — [View Writeup](./writeups/PrivEsc-via-IAM-Version-Rollback.md)
 * **IAM PutRolePolicy PrivEsc (Cybr Labs)** — [View Writeup](./writeups/IAM-PutRolePolicy-PrivEsc.md)
 * **IAM AttachRolePolicy PrivEsc (Cybr Labs)** — [View Writeup](./writeups/IAM-AttachRolePolicy-PrivEsc.md)
+* **S3 Data Exfiltration via EC2 IMDSv1 (Cybr Labs)** — [View Writeup](./writeups/S3%20Data%20Exfiltration%20via%20EC2%20IMDSv1.md)
 <!-- * **Loot Public EBS Snapshots (Pwned Labs)** — [View Writeup](./writeups/Loot-Public-EBS-Snapshots.md) -->
 
 ---
